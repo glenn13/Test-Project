@@ -8,7 +8,6 @@ use App\Services\Store\Location\LocationService;
 use App\Services\Shopper\ShopperService;
 use App\Models\Shopper\Shopper;
 use App\Models\Store\Location\Location;
-use App\Models\Store\Store;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
